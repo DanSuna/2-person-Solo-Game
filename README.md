@@ -14,3 +14,7 @@ The amount of collectibles you can collect can be changed in the code by simply 
 We will be also adding visuals to the win/lose screen based on the conditions. 
 We might be adding a main menu when you start the game and when you finish the game, you'll be able to restart with a button on screen.
 This is all for the game. 
+
+Updated:
+Unfortunately, due to scheduling, we were able to fully polished the game, but the game itself is still functioning. 
+Here's what the game is missing in order for it to be fully polishe: Animation and Winning/Lose Screen.
